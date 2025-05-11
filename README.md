@@ -8,3 +8,6 @@
   - **C++**
   - **Java**
 ------------------------------------------------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/lanc07/lanc07/output/snake.svg" alt="Snake animation" />
+
+###
