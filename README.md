@@ -1,7 +1,7 @@
-   # **Hi ! I’m Allan xD !**
+   ## **Hi ! I’m Allan xD !**
   I'm a Computer Science student at **FIAP** (Faculty of Informatics and Administration of São Paulo).
 
-   # What I'm Learning
+   ## What I'm Learning
   I'm actively learning 
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
