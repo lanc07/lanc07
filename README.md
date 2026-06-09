@@ -1,17 +1,18 @@
    ## **Hi ! I’m Allan xD !**
-  I'm a Computer Science student at **FIAP**.
+   I love technology, that's why I'm studying CS, I want to learn what is behind a system and how it really works.
 
-   ## What I'm Learning
+   + I enjoy contributing to open-source projects and learning from other developers :)
 
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
+   ## Programming languages
+   - Python
+   - Java
+   - C
+
+  ## Interested in
+  - AI
+  - Data Science
+  - Software Development
+
 
    ##  **Projects :O**
    <ul>
