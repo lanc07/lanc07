@@ -5,8 +5,8 @@
 
    ## Programming languages
    - Python
+   - Go
    - Java
-   - C
 
   ## Interested in
   - AI
